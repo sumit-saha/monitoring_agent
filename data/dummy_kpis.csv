@@ -1,0 +1,11 @@
+timestamp,kpi_name,entity,value
+2025-07-01 10:00:00,Revenue,Group,92.5
+2025-07-01 10:50:00,Revenue,Group,82.5
+2025-07-01 10:00:00,Attrition Rate,HR Department,58.2
+2025-07-01 11:00:00,Attrition Rate,HR Department,10.2
+2025-07-01 10:00:00,Fuel Cost per Km,Airline Ops,5.9
+2025-07-06 13:34:59,Attrition Rate,Sales Department,115.5
+2025-07-06 14:57:32,Attrition Rate,HR Department,40.0
+2025-07-06 13:57:32,Attrition Rate,HR Department,39.0
+2025-07-08 12:06:44,Attrition Rate,Sales Department,115.5
+2025-07-08 12:06:48,Attrition Rate,Sales Department,115.5

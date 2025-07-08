@@ -1,0 +1,20 @@
+[
+  {
+    "kpi_name": "Revenue",
+    "entity": "Group",
+    "target": 100,
+    "threshold_type": "percent",
+    "threshold_value": 10,
+    "comparison": "below",
+    "severity": "high"
+  },
+  {
+    "kpi_name": "Attrition Rate",
+    "entity": "HR Department",
+    "target": 15,
+    "threshold_type": "absolute",
+    "threshold_value": 15,
+    "comparison": "above",
+    "severity": "high"
+  }
+]

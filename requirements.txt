@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+pandas
+numpy
+matplotlib
+python-dotenv
+langchain-community
+openai
+langchain_openai
